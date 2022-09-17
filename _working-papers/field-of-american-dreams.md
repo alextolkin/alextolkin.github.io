@@ -2,6 +2,7 @@
 title: "Field of (American) Dreams: Sports and Belief in Meritocracy"
 collection: working-papers
 permalink: /working-papers/field-of-american-dreams
+excerpt: 'Paper examining the relationship between watching sports and seeing America as meritocratic'
 date: 2022-09-11
 paperurl: 'http://alextolkin.github.io/files/220911_Tolkin_APSA.pdf'
 ---
