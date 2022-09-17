@@ -3,12 +3,14 @@ main:
   # - title: "Publications"
   #   url: /publications/
   # remove this until you have actual publications!
-
   - title: "Dissertation Project"
     url: /dissertation-project/    
 
   - title: "CV"
     url: /cv/
+
+  - title: "Working Papers"
+    url: /working-papers/
 
   - title: "Other Writings"
     url: /other-writings/
