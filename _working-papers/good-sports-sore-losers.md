@@ -3,7 +3,7 @@ title: "Good Sports and Sore Losers: How Watching Team Sports Increases Acceptan
 collection: working-papers
 permalink: /working-papers/good-sports-sore-losers
 excerpt: 'Paper showing how legitimating rituals increase acceptance of election defeats'
-date: 2023-08-18
+date: 2023-08-31
 paperurl: 'http://alextolkin.github.io/files/230831_Tolkin_Good_Sports.pdf'
 ---
 ### Abstract:
