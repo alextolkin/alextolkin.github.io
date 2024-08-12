@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-CV available [here](https://alextolkin.github.io/files/240812_CV.pdf) (last updated August 2024)s
+CV available [here](https://alextolkin.github.io/files/240812_CV.pdf) (last updated August 2024)
