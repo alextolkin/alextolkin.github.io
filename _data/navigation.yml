@@ -1,16 +1,13 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
-  # remove this until you have actual publications!
-  - title: "Dissertation Project"
-    url: /dissertation-project/    
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Working Papers"
-    url: /working-papers/
-
-  - title: "Other Writings"
+  - title: "Personal"
     url: /other-writings/

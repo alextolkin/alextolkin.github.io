@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Research at the Initiative on Survey Methodology at Duke University. My research examines American political behavior focusing on media effects, public opinion, and survey methodology.
+I'm a Postdoctoral Research at the Initiative on Survey Methodology at Duke University. My research examines American political behavior, focusing on media effects, public opinion, AI, and survey methodology. This work has been published in *Political Behavior* and *Public Opinion Quarterly*. 

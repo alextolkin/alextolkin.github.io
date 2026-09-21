@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alex Tolkin"
   avatar           : "new_prof_cropped.png"
-  bio              : "Joint PhD Student in Political Science and Communication"
-  location         : "Philadelphia, PA"
-  employer         :
+  bio              : "Postdoctoral Research Associate at the Duke Initiative for Survey Methodology"
+  location         : # "Durham, NC"
+  employer         : "Duke University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=aLQub-wAAAAJ&inst=10163712085368340378"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -176,6 +176,9 @@ kramdown:
 # Collections
 collections:
   teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
     output: true
     permalink: /:collection/:path/
   working-papers:
