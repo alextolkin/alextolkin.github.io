@@ -140,6 +140,10 @@ Suuuuuper sweet carbonated sake. Very much like champagne or a celebratory drink
 <details markdown="1">
 <summary>Sho Chiku Bai</summary>
 
+#### Gokai
+
+Another Sho Chiku Bai, another sweet but otherwise extremely plain sake. It's not too sweet but not fruity. I think the reason it seems sweeter than it is is that the sweetness is almost flavorless, like I am drinking syrup. Not nearly as cloying as syrup, but there's just no flavor. The main distinguishing feature of this compared to other SCB sake is how long the aftertaste lingers which is... also not a good thing. 
+
 #### Premium Ginjo Sake
 
 This wins the "most boring name ever" award and the bottle matches — a clear bottle with an image of a flower zzzz. The taste isn’t much more interesting. Very sweet and fruity sake initially, with a sharper bite of the aftertaste. The sweetness is a bit one-note for me. Supposedly this has notes of pear, melon, honeysuckle, custard, and nutmeg which uhhhh that is a lot of different flavors and all I really taste is "sweet".
