@@ -8,7 +8,8 @@ author_profile: true
 
 As people might know, I really like sake. Here are my notes, impressions, and not-really-reviews on various sake I have had, split by brand.
 
-<details markdown="1">
+<details>
+
 <summary>Amabuki</summary>
 
 #### Sakura Fubuki
@@ -17,7 +18,8 @@ This sake is a striking deep pink, which made me worried it would be similar to 
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Atago no Matsu</summary>
 
 #### Tokubetsu Honjozo
@@ -26,7 +28,8 @@ Very strongly flavored, dry sake. Tasting notes say apricot and banana, which I 
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Brooklyn Kura</summary>
 
 #### Greenwood Kimoto
@@ -35,7 +38,8 @@ Pretty sure I did not actually drink Greenwood Kimoto. That is what I ordered, b
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>G</summary>
 
 #### Joy
@@ -44,7 +48,8 @@ Meh. Initial taste is a bit of melon/pear but then the taste is kinda nothing an
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Joto</summary>
 
 #### The Green One
@@ -53,7 +58,8 @@ Yes, that is the actual name of this sake and I am… not a fan. Initially there
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Kubota</summary>
 
 #### Senju Ginjo
@@ -62,7 +68,8 @@ Really well-balanced sake. It’s definitely sweeter than most wines, but not so
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Kikusui</summary>
 
 #### Chrysanthemum Mist
@@ -79,7 +86,8 @@ This is a really nice, rich-tasting sake. It’s got some sweetness but it’s s
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Konteki</summary>
 
 #### Pearls of Simplicity
@@ -88,7 +96,18 @@ Well this certainly lives up to its name because it exemplifies a delicate, simp
 
 </details>
 
-<details markdown="1">
+<details>
+
+<summary>Maneki Wanko (Oka technically the brewery)</summary>
+
+#### Lucky Dog
+
+This sake comes in a juicebox with a picture of a cute cartoon dog on it. I bought it half as a joke and half out of curiosity. Due to the unusual packaging, I expected this sake would be overwhelmingly sweet or overwhelmingly fruity or overwhelmingly something. Instead, it is a remarkably middle-of-the-road sake. The main flavor I got was rice, akin to Pearls of Simplicity. The tasting notes say it has a "fruity and grainy aroma, complemented by a creamy, light palate and a smooth, clean finish" which basically means it is very neutral and doesn't have any strong flavors. I don't know if I would get it again, but it was definitely a lot better than I expected.
+
+</details>
+
+<details>
+
 <summary>Momokawa</summary>
 
 #### Yuki Tora
@@ -97,7 +116,8 @@ This is an extremely creamy nigori. It’s sweet, but not as sweet as some, with
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Oka</summary>
 
 #### Snow Angel
@@ -106,7 +126,8 @@ Nigori sake tends to be sweet and creamy and this is the ultimate nigori. Rich, 
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Rihaku</summary>
 
 #### Dreamy Clouds
@@ -115,7 +136,8 @@ This is a nigori but it doesn’t *taste* like a nigori. Instead of the usual cr
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Shimizu No Mai</summary>
 
 #### Pure Dusk
@@ -128,7 +150,8 @@ Kinda unremarkable nigori. Nice creaminess, not too sweet, pleasant rice flavor.
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Shirakabegura</summary>
 
 #### Mio
@@ -137,12 +160,13 @@ Suuuuuper sweet carbonated sake. Very much like champagne or a celebratory drink
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Sho Chiku Bai</summary>
 
 #### Gokai
 
-Another Sho Chiku Bai, another sweet but otherwise extremely plain sake. It's not too sweet but not fruity. I think the reason it seems sweeter than it is is that the sweetness is almost flavorless, like I am drinking syrup. Not nearly as cloying as syrup, but there's just no flavor. The main distinguishing feature of this compared to other SCB sake is how long the aftertaste lingers which is... also not a good thing. 
+Another Sho Chiku Bai, another sweet but otherwise extremely plain sake. It's not too sweet but not fruity. I think the reason it seems sweeter than it is is that the sweetness is almost flavorless, like I am drinking syrup. Not nearly as cloying as syrup, but there's just no flavor. The main distinguishing feature of this compared to other SCB sake is how long the aftertaste lingers which is... also not a good thing.
 
 #### Premium Ginjo Sake
 
@@ -154,7 +178,8 @@ Kinda plain, sweet sake. It’s a bit too sweet for my taste, almost a bit syrup
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Soto</summary>
 
 #### Premium Junmai
@@ -163,7 +188,8 @@ Another sake with a boring name, a boring bottle, and an equally boring taste. I
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Suigei</summary>
 
 #### Tokubetsu Junmai (aka "Drunken Whale")
@@ -172,7 +198,8 @@ Nice, versatile, all-around Sake. Dry but not too dry, with some noticeable but 
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Suizen Shuzo</summary>
 
 #### Kibo
@@ -181,7 +208,8 @@ I’m mixed on this one. This sake is more dry than I care for, with a subtle fl
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Tentaka</summary>
 
 #### Hawk in the Heavens
@@ -190,7 +218,8 @@ Very nice, versatile sake. The main flavor I got was honey, but this is not a su
 
 </details>
 
-<details markdown="1">
+<details>
+
 <summary>Tozai</summary>
 
 #### Blossom of Peace
@@ -212,5 +241,15 @@ Tozai is one of the most easily available sake brands in the US, and Snow Maiden
 #### Well of Wisdom
 
 Well of Wisdom is Tozai’s most expensive sake and it is by far my favorite that they offer. It has a refreshing, clean taste with some pleasant sweetness. It’s a very smooth sake, especially for a relatively inexpensive American brand. I think this would go great with fish but I expect that it would go well with a variety of foods as long as you wanted a drink that is sweeter than most wines, but far less sweet than mead or other sweet alcoholic drinks.
+
+</details>
+
+<details>
+
+<summary>Yoshinogawa</summary>
+
+#### Winter Warrior
+
+I thought this was delicious. A bit sweet with some melon flavor. It's got a refreshing, clean taste that I usually associate with less flavorful sake, but the fruit flavor is definitely noticeable. The suggested pairings are salad, pork, and noodle salad which are kinda interesting pairings? I do think this would work great with more mild dishes that pair well with sweetness. I can see pork because it goes well sweeter, fruiter accompaniments, or some asian noodle dish. Either way, I'm a fan
 
 </details>
