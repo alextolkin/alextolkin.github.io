@@ -29,6 +29,7 @@ Very strongly flavored, dry sake. Tasting notes say apricot and banana, which I 
 </details>
 
 <details>
+
 <summary>Brooklyn Kura</summary>
 
 #### Greenwood Kimoto
