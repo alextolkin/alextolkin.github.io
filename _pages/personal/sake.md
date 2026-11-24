@@ -29,7 +29,6 @@ Very strongly flavored, dry sake. Tasting notes say apricot and banana, which I 
 </details>
 
 <details>
-
 <summary>Brooklyn Kura</summary>
 
 #### Greenwood Kimoto
@@ -40,11 +39,11 @@ Pretty sure I did not actually drink Greenwood Kimoto. That is what I ordered, b
 
 <details>
 
-<summary>G</summary>
+<summary>Dassai</summary>
 
-#### Joy
+#### Blue Type 50
 
-Meh. Initial taste is a bit of melon/pear but then the taste is kinda nothing and there's a overly crisp/ slightly harsh aftertaste. It is "easy drinking" but sometimes that is a polite way to say "bland", and overall it's just not interesting enough for me to be that into.
+To me, Dassai is the mass market higher end sake. If there is one premium sake that is available, chances are decent that it's Dassai. Dassai Blue is a very interesting initiative, where the Blue line is made in New York, for much cheaper than the regular (Japanese) product. I think Dassai has a winner here - this was great. It's definitely fruity but not too sweet, like a crisp, refreshing fruitiness. Super smooth as well. Tasting notes list a ton of flavors I don't taste (licorice? pinapple candy? vanilla?) but I do get the cantaloupe as the dominant flavor.
 
 </details>
 
@@ -84,6 +83,10 @@ Incredibly rich. This tastes like honey and the mouthfeel is thicker(?) than oth
 
 This is a really nice, rich-tasting sake. It’s got some sweetness but it’s subtle. There’s also a bit of alcohol bite because this sake is 19% ABV(!) The alcohol isn’t that noticeable so this is totally dangerous because it tastes much less alcoholic than it is, especially with food. The black can, "premium" version of the funaguchi is supposed to have a milder taste that kikusui’s other variants. I thought this was at a good level of intensity for me, so I am curious how strong the more assertive variants will be like.
 
+#### Perfect Snow
+
+This is an incredibly creamy and sweet nigori. And... that's about all my thoughts on the taste. I looked at the tasting notes afterwards and they say it has "full-bodied sweetness" followed by "crisp, dynamic flavor." So basically, creamy and sweet. What the tasting notes also say is that this is 21% ABV(!!) which it does not taste like *at all*. The brewer website recommends mixing this with milk(???) to cut the alcohol which sounds nuts to me. I dunno, this wasn't bad but I have no real interest in ever having it again.
+
 </details>
 
 <details>
@@ -93,16 +96,6 @@ This is a really nice, rich-tasting sake. It’s got some sweetness but it’s s
 #### Pearls of Simplicity
 
 Well this certainly lives up to its name because it exemplifies a delicate, simple taste. Very very clean, pure flavor. It almost tastes like water with a sake aftertaste. Definitely pair with subtle flavors like whitefish or something. While this tastes fine, I really prefer more strongly flavored sake. This was too subtle for me.
-
-</details>
-
-<details>
-
-<summary>Maneki Wanko (Oka technically the brewery)</summary>
-
-#### Lucky Dog
-
-This sake comes in a juicebox with a picture of a cute cartoon dog on it. I bought it half as a joke and half out of curiosity. Due to the unusual packaging, I expected this sake would be overwhelmingly sweet or overwhelmingly fruity or overwhelmingly something. Instead, it is a remarkably middle-of-the-road sake. The main flavor I got was rice, akin to Pearls of Simplicity. The tasting notes say it has a "fruity and grainy aroma, complemented by a creamy, light palate and a smooth, clean finish" which basically means it is very neutral and doesn't have any strong flavors. I don't know if I would get it again, but it was definitely a lot better than I expected.
 
 </details>
 
@@ -120,9 +113,23 @@ This is an extremely creamy nigori. It’s sweet, but not as sweet as some, with
 
 <summary>Oka</summary>
 
+#### Lucky Dog (Maneki Wanko)
+
+This sake comes in a juicebox with a picture of a cute cartoon dog on it. I bought it half as a joke and half out of curiosity. Due to the unusual packaging, I expected this sake would be overwhelmingly sweet or overwhelmingly fruity or overwhelmingly something. Instead, it is a remarkably middle-of-the-road sake. The main flavor I got was rice, akin to Pearls of Simplicity. The tasting notes say it has a "fruity and grainy aroma, complemented by a creamy, light palate and a smooth, clean finish" which basically means it is very neutral and doesn't have any strong flavors. I don't know if I would get it again, but it was definitely a lot better than I expected.
+
 #### Snow Angel
 
 Nigori sake tends to be sweet and creamy and this is the ultimate nigori. Rich, sweet and insanely creamy. It is quite one-note — you’re not looking for subtle flavors here — and I don’t know how often I would go for this. But I respect a sake that knows its lane and goes for it full-throttle.
+
+</details>
+
+<details>
+
+<summary>Okunomatsu</summary>
+
+#### Tokubetsu Junmai
+
+Very sweet with a nice honey flavor. It's a bit too sweet for my tastes. Interestingly, the sake describes itself as balanced, with tasting notes of citrus, herbaceous, and grain. I don't really taste the citrus to be honest. This is definitely a more complex flavor than some sweeter sakes, which just seem cloying. But even so, the honey is too much for me and overpowers the rest of the flavors.
 
 </details>
 
@@ -170,7 +177,7 @@ Another Sho Chiku Bai, another sweet but otherwise extremely plain sake. It's no
 
 #### Premium Ginjo Sake
 
-This wins the "most boring name ever" award and the bottle matches — a clear bottle with an image of a flower zzzz. The taste isn’t much more interesting. Very sweet and fruity sake initially, with a sharper bite of the aftertaste. The sweetness is a bit one-note for me. Supposedly this has notes of pear, melon, honeysuckle, custard, and nutmeg which uhhhh that is a lot of different flavors and all I really taste is "sweet".
+This wins the "most boring name ever" award and the bottle matches — a clear bottle with an image of a flower zzzz. The taste isn’t much more interesting. Very sweet and fruity sake initially, with a sharper bite of the aftertaste. The sweetness is a bit one-note for me. Supposedly this has notes of pear, melon, honeysuckle, custard, and nutmeg which uhhhh that is a lot of different flavors and all I really taste is "sweet."
 
 #### Rei
 
@@ -204,7 +211,7 @@ Nice, versatile, all-around Sake. Dry but not too dry, with some noticeable but 
 
 #### Kibo
 
-I’m mixed on this one. This sake is more dry than I care for, with a subtle flavor. If I’m having a dry sake I want it to be crisp and refreshing, but this is more muted and not crisp at all. Tasting notes list almonds, which I didn’t taste initially but once I saw the notes that made total sense. It’s not the taste of sweet almonds, or salted almonds, it’s the taste of straight almond. It is easy-drinking, but I’m looking for more than that in a sake.
+I’m mixed on this one. This sake is more dry than I care for, with a subtle flavor. If I’m having a dry sake I want it to be crisp and refreshing, but this is more muted and not crisp at all. Tasting notes list almonds, which I didn’t taste initially but once I saw the notes that made total sense. It’s not the taste of sweet almonds, or salted almonds, it’s the mild taste of raw almond. It is easy-drinking, but I’m looking for more than that in a sake.
 
 </details>
 
@@ -214,7 +221,7 @@ I’m mixed on this one. This sake is more dry than I care for, with a subtle fl
 
 #### Hawk in the Heavens
 
-Very nice, versatile sake. The main flavor I got was honey, but this is not a super sweet sake. It’s more like honey with only a bit of sweetness, which is a flavor I quite enjoy. Tasting notes list mixed nuts and "fresh cut green grass" which uhhhh what??? I guess the sake does have an "earthier" flavor but this is yet another reminder that my taste buts are apparently too basic to appreciate whatever subtleties the people who write the notes detect.
+Very nice, versatile sake. The main flavor I got was honey, but this is not a super sweet sake. It’s more like honey except with the sweetness turned way down, which is a flavor I quite enjoy. Tasting notes list mixed nuts and "fresh cut green grass" which uhhhh what??? I guess the sake does have an "earthier" flavor but this is yet another reminder that my taste buts are apparently too basic to appreciate whatever subtleties the people who write the notes detect.
 
 </details>
 
