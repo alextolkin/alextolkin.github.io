@@ -8,7 +8,7 @@ author_profile: true
 
 As people might know, I really like sake. Here are my notes, impressions, and not-really-reviews on various sake I have had, split by brand.
 
-<details>
+<details markdown="1">
 
 <summary>Amabuki</summary>
 
@@ -18,7 +18,7 @@ This sake is a striking deep pink, which made me worried it would be similar to 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Atago no Matsu</summary>
 
@@ -28,7 +28,7 @@ Very strongly flavored, dry sake. Tasting notes say apricot and banana, which I 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Brooklyn Kura</summary>
 
@@ -38,7 +38,7 @@ Pretty sure I did not actually drink Greenwood Kimoto. That is what I ordered, b
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Dassai</summary>
 
@@ -48,7 +48,7 @@ To me, Dassai is the mass market higher end sake. If there is one premium sake t
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Joto</summary>
 
@@ -58,7 +58,7 @@ Yes, that is the actual name of this sake and I am… not a fan. Initially there
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Kubota</summary>
 
@@ -68,7 +68,7 @@ Really well-balanced sake. It’s definitely sweeter than most wines, but not so
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Kikusui</summary>
 
@@ -90,7 +90,7 @@ This is an incredibly creamy and sweet nigori. And... that's about all my though
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Konteki</summary>
 
@@ -100,7 +100,7 @@ Well this certainly lives up to its name because it exemplifies a delicate, simp
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Momokawa</summary>
 
@@ -110,7 +110,7 @@ This is an extremely creamy nigori. It’s sweet, but not as sweet as some, with
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Oka</summary>
 
@@ -124,7 +124,7 @@ Nigori sake tends to be sweet and creamy and this is the ultimate nigori. Rich, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Okunomatsu</summary>
 
@@ -134,7 +134,7 @@ Very sweet with a nice honey flavor. It's a bit too sweet for my tastes. Interes
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Rihaku</summary>
 
@@ -144,7 +144,7 @@ This is a nigori but it doesn’t *taste* like a nigori. Instead of the usual cr
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Shimizu No Mai</summary>
 
@@ -158,7 +158,7 @@ Kinda unremarkable nigori. Nice creaminess, not too sweet, pleasant rice flavor.
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Shirakabegura</summary>
 
@@ -168,7 +168,7 @@ Suuuuuper sweet carbonated sake. Very much like champagne or a celebratory drink
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Sho Chiku Bai</summary>
 
@@ -186,7 +186,7 @@ Kinda plain, sweet sake. It’s a bit too sweet for my taste, almost a bit syrup
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Soto</summary>
 
@@ -196,7 +196,7 @@ Another sake with a boring name, a boring bottle, and an equally boring taste. I
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Suigei</summary>
 
@@ -206,7 +206,7 @@ Nice, versatile, all-around Sake. Dry but not too dry, with some noticeable but 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Suizen Shuzo</summary>
 
@@ -216,7 +216,7 @@ I’m mixed on this one. This sake is more dry than I care for, with a subtle fl
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Tentaka</summary>
 
@@ -226,7 +226,7 @@ Very nice, versatile sake. The main flavor I got was honey, but this is not a su
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Tozai</summary>
 
@@ -252,7 +252,7 @@ Well of Wisdom is Tozai’s most expensive sake and it is by far my favorite tha
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Yoshinogawa</summary>
 
